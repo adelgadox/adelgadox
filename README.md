@@ -11,6 +11,8 @@
 
 ### I am from Venezuela and for more than 7 years I have lived in Mexico as a Solutions Center Manager in a highly recognized startup in Mexico, Brazil, Argentina, Turkey, and the United Arab Emirates.
 
+### I spent more than 9 years dedicated to software development with specialization in backend, I have been a technical leader in projects with multiple developers and I currently lead the technology incident area.
+
 <!--
 **adelgadox/adelgadox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
